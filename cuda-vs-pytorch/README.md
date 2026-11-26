@@ -21,7 +21,7 @@ Benchmarks use FP32 on both sides (TF32 disabled), CUDA-event timing and warm-up
 2. `Runtime -> Change runtime type -> T4 GPU`
 3. `Runtime -> Run all` (first compile takes 1-2 minutes)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cuda-vs-pytorch/blob/main/notebooks/Review3_CUDA_vs_PyTorch.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rahul123/cuda-vs-pytorch/blob/main/notebooks/Review3_CUDA_vs_PyTorch.ipynb)
 
 Outputs (CSV table and graphs) are written to `results/`.
 
